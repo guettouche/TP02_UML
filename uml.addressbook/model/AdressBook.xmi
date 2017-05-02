@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addressbook:AdressBook xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:addressbook="addressbook.univrouen.fr" xsi:schemaLocation="addressbook.univrouen.fr addressbook.ecore">
+  <personne nom="FEGHOUL" prenom="Ghiles" age="24">
+    <adresse numero="02" rue="Place Général De Gaulle"/>
+  </personne>
+  <personne nom="GUETTOUCHE" prenom="Islam" age="24">
+    <adresse numero="20" rue="Rue de Mimosas"/>
+  </personne>
+  <personne nom="GRINGO" prenom="Pilo" age="23">
+    <adresse numero="2000" rue="Abane Ramdane"/>
+  </personne>
+</addressbook:AdressBook>
